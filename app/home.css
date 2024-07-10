@@ -1,0 +1,7 @@
+.back{
+    mask-image: url(../public/circle.svg);
+    mask-repeat: no-repeat;
+    mask-size: 10px;
+    z-index: 100;
+    background-color: brown;
+}
